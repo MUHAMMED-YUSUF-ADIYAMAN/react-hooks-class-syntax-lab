@@ -2,7 +2,7 @@ import Links from "./Links";
 import React, { Component } from "react";
 
 export default class About extends Component {
- der() {
+ render() {
     return (
       <div id="about">
         <h2>About Me</h2>
